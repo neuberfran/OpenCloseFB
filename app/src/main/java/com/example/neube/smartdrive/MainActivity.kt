@@ -33,8 +33,8 @@ class MainActivity : AppCompatActivity() {
 
     //        if ("fcmotordoisa", "==" , "1") {
             if (fcmotordoisa!!.equals(1)) {
-                fecharJanela1.background = resource.getDrawable(R.mipmap.jesqpretae)
-     //           fecharJanela1.background = getDrawable(R.mipmap.jesqpretae)
+    //            fecharJanela1.background = resource.getDrawable(R.mipmap.jesqpretae)
+                fecharJanela1.background = getDrawable(R.mipmap.jesqpretae)
                 fecharJanela1.isEnabled = false
                 pararButton.isEnabled = false
             } else if (fcmotordoisa.equals(0)) {
