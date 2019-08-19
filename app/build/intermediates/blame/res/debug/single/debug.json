@@ -1,0 +1,402 @@
+[
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_stop1.9.png.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\mipmap-xhdpi\\stop1.9.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_stop2.9.png.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\mipmap-xhdpi\\stop2.9.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_jesqpretae.png.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\mipmap-xhdpi\\jesqpretae.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_jesqpretae.png.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\mipmap-mdpi\\jesqpretae.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_stopaa.png.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\mipmap-mdpi\\stopaa.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_fechaesquerda.png.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\mipmap-hdpi\\fechaesquerda.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_stop2.9.png.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\mipmap-mdpi\\stop2.9.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_jesqpretae.png.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\mipmap-hdpi\\jesqpretae.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_check2.xml.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\drawable-v24\\check2.xml"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_fechadireta.png.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\mipmap-xhdpi\\fechadireta.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_stopb.png.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\mipmap-xxxhdpi\\stopb.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_janelafrentee.png.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\mipmap-xhdpi\\janelafrentee.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_janela.png.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\mipmap-hdpi\\janela.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_stopaa.png.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\mipmap-xxhdpi\\stopaa.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_stopbb.png.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\mipmap-hdpi\\stopbb.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_stopfundo.9.png.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\mipmap-xxxhdpi\\stopfundo.9.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_janela.png.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\mipmap-xhdpi\\janela.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_stopbb.png.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\mipmap-xxxhdpi\\stopbb.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_jadiretae.png.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\mipmap-mdpi\\jadiretae.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_stop1.9.png.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\mipmap-xxxhdpi\\stop1.9.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_fechadireta.png.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\mipmap-xxhdpi\\fechadireta.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_stop2.9.png.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\mipmap-xxxhdpi\\stop2.9.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_janelafrented.png.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\mipmap-xhdpi\\janelafrented.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_jadireitad.png.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\mipmap-xxhdpi\\jadireitad.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_stopb.png.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\mipmap-mdpi\\stopb.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_janelafrentee.png.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\mipmap-hdpi\\janelafrentee.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_jadireitad.png.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\mipmap-xhdpi\\jadireitad.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_jadiretae.png.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\mipmap-xhdpi\\jadiretae.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_fechadireta.png.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\mipmap-mdpi\\fechadireta.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_stopfundo.9.png.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\mipmap-xhdpi\\stopfundo.9.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_jaesquerde.png.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\mipmap-xxhdpi\\jaesquerde.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_fechaesquerda.png.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\mipmap-mdpi\\fechaesquerda.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_janelafrentee.png.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\mipmap-xxhdpi\\janelafrentee.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_bookmark_border.xml.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\drawable\\ic_bookmark_border.xml"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_stopb.png.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\mipmap-xxhdpi\\stopb.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_janelafrented.png.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\mipmap-xxxhdpi\\janelafrented.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_jaesquerde.png.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\mipmap-mdpi\\jaesquerde.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_jesqpretae.png.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\mipmap-xxhdpi\\jesqpretae.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_jadiretae.png.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\mipmap-xxxhdpi\\jadiretae.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_jadiretae.png.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\mipmap-hdpi\\jadiretae.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_jadireitad.png.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\mipmap-xxxhdpi\\jadireitad.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_jaesquerde.png.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\mipmap-hdpi\\jaesquerde.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_fechadireta.png.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\mipmap-xxxhdpi\\fechadireta.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_fechaesquerda.png.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\mipmap-xxhdpi\\fechaesquerda.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_stopaa.png.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\mipmap-hdpi\\stopaa.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_stopfundo.9.png.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\mipmap-mdpi\\stopfundo.9.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_janelafrentee.png.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\mipmap-mdpi\\janelafrentee.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_stop1.9.png.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\mipmap-hdpi\\stop1.9.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_janela.png.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\mipmap-mdpi\\janela.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_stopbb.png.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\mipmap-xxhdpi\\stopbb.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_stop2.9.png.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\mipmap-hdpi\\stop2.9.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_janela.png.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\mipmap-xxhdpi\\janela.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_jesqpretae.png.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\mipmap-xxxhdpi\\jesqpretae.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_stopb.png.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\mipmap-xhdpi\\stopb.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_stopbb.png.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\mipmap-mdpi\\stopbb.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_jadiretae.png.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\mipmap-xxhdpi\\jadiretae.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_stopaa.png.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\mipmap-xhdpi\\stopaa.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_stopb.png.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\mipmap-hdpi\\stopb.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\drawable_toggle_drawable.xml.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\drawable\\toggle_drawable.xml"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_fechadireta.png.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\mipmap-hdpi\\fechadireta.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_fechaesquerda.png.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\mipmap-xhdpi\\fechaesquerda.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_jadireitad.png.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\mipmap-mdpi\\jadireitad.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_check.xml.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\drawable-v24\\check.xml"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_janelafrentee.png.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\mipmap-xxxhdpi\\janelafrentee.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_jadireitad.png.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\mipmap-hdpi\\jadireitad.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_stop2.9.png.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\mipmap-xxhdpi\\stop2.9.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_stop1.9.png.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\mipmap-xxhdpi\\stop1.9.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_jaesquerde.png.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\mipmap-xhdpi\\jaesquerde.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_janela.png.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\mipmap-xxxhdpi\\janela.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_stopbb.png.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\mipmap-xhdpi\\stopbb.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_fechaesquerda.png.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\mipmap-xxxhdpi\\fechaesquerda.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_janelafrented.png.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\mipmap-mdpi\\janelafrented.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_stopaa.png.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\mipmap-xxxhdpi\\stopaa.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_stopfundo.9.png.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\mipmap-hdpi\\stopfundo.9.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_stop1.9.png.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\mipmap-mdpi\\stop1.9.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_stopfundo.9.png.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\mipmap-xxhdpi\\stopfundo.9.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_bookmark_black.xml.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\drawable\\ic_bookmark_black.xml"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_janelafrented.png.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\mipmap-xxhdpi\\janelafrented.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_jaesquerde.png.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\mipmap-xxxhdpi\\jaesquerde.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_janelafrented.png.flat",
+        "source": "C:\\neuber\\adt-bundle-windows-x86_64-20140702\\sdk\\backupdobom\\OpenCloseF\\app\\src\\main\\res\\mipmap-hdpi\\janelafrented.png"
+    }
+]
